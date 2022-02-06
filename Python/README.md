@@ -37,5 +37,8 @@ The course content features the following topics:
   * Convolutional Neural Networks
 
 * Dimensionality Reduction
+  * Principal Component Analysis (PCA)
+  *  Linear Discriminant Analysis (LDA)
+  *  Kernel PCA
 
 * Model Selection and Boosting
