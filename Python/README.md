@@ -32,7 +32,7 @@ The course content features the following topics:
 
 * Natural Language Processing
 
-* Neural Networks
+* Deep Learning
   * Artificial Neural Networks
   * Convolutional Neural Networks
 
