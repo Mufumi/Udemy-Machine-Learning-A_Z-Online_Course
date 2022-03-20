@@ -1,1 +1,1 @@
-This directory contains files that assist with a pre-processing the data that is going to be used in other sections. Since many of the datasets used are not standard, they need to be restructed and repurposed to fit the application.
+This directory contains files that assist with a pre-processing the data that is going to be used in other sections. Since many of the datasets used are not standard, they need to be restructured and repurposed to fit the application.
