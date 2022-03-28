@@ -2,12 +2,12 @@ The course content features the following topics:
 * [Data preprocessing](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Data%20pre-processing)
 
 * [Regression](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Regression)
-  * Simple Linear Regression
-  * Multiple Linear Regression
-  * Polynomial Regression
-  * Support Vector Regression
-  * Decision Tree Regression
-  * Random Forest Regression
+  * [Simple Linear Regression](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Regression/Simple%20Linear%20Regression)
+  * [Multiple Linear Regression](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Regression/Multiple%20Linear%20Regression)
+  * [Polynomial Regression](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Regression/Polynomial%20Regression)
+  * [Support Vector Regression](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Regression/Support%20Vector%20Regression)
+  * [Decision Tree Regression](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Regression/Decision%20Tree%20Regression)
+  * [Random Forest Regression](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Regression/Random%20Forest%20Regression)
 
 * Classification
   * Logistic Regression
