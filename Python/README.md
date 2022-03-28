@@ -1,7 +1,7 @@
 The course content features the following topics:
 * [Data preprocessing](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Data%20pre-processing)
 
-* Regression
+* [Regression](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Regression)
   * Simple Linear Regression
   * Multiple Linear Regression
   * Polynomial Regression
