@@ -30,7 +30,7 @@ The course content features the following topics:
   * Thompson Sampling
   * Upper Confidence Bound (UCB)
 
-* [Natural Language Processing]((https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Natural%20Language%20Processing))
+* [Natural Language Processing](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Natural%20Language%20Processing)
 
 * [Deep Learning](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Deep%20Learning)
   * Artificial Neural Networks
