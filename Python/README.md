@@ -9,7 +9,7 @@ The course content features the following topics:
   * [Decision Tree Regression](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Regression/Decision%20Tree%20Regression)
   * [Random Forest Regression](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Regression/Random%20Forest%20Regression)
 
-* Classification
+* [Classification](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Classification)
   * Logistic Regression
   * K-Nearest Neighbours (KNN)
   * Support Vector Machine (SVM)
@@ -18,27 +18,27 @@ The course content features the following topics:
   * Decision Tree Classification
   * Random Forest Classification
 
-* Clustering
+* [Clustering](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Clustering)
   * K-Means clustering
   * Hierachical clustering
 
-* Association Rule Learning
+* [Association Rule Learning](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Association%20Rule%20Learning)
   * Apriori
   * Eclat
 
-* Reinforcement Learning
+* [Reinforcement Learning](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Reinforcement%20Learning)
   * Thompson Sampling
   * Upper Confidence Bound (UCB)
 
-* Natural Language Processing
+* [Natural Language Processing]((https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Natural%20Language%20Processing))
 
-* Deep Learning
+* [Deep Learning](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Deep%20Learning)
   * Artificial Neural Networks
   * Convolutional Neural Networks
 
-* Dimensionality Reduction
+* [Dimensionality Reduction](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Dimensionality%20Reduction)
   * Principal Component Analysis (PCA)
   *  Linear Discriminant Analysis (LDA)
   *  Kernel PCA
 
-* Model Selection and Boosting
+* [Model Selection and Boosting](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Model%20Selection%20and%20Boosting)
