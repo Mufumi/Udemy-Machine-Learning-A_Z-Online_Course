@@ -27,8 +27,8 @@ The course content features the following topics:
   * [Eclat](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Association%20Rule%20Learning/Eclat)
 
 * [Reinforcement Learning](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Reinforcement%20Learning)
-  * Thompson Sampling
-  * Upper Confidence Bound (UCB)
+  * [Thompson Sampling](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Reinforcement%20Learning/Thompson%20Sampling)
+  * [Upper Confidence Bound (UCB)](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Reinforcement%20Learning/UCB)
 
 * [Natural Language Processing](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Natural%20Language%20Processing)
 
