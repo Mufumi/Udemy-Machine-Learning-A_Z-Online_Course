@@ -37,8 +37,8 @@ The course content features the following topics:
   * Convolutional Neural Networks
 
 * [Dimensionality Reduction](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Dimensionality%20Reduction)
-  * Principal Component Analysis (PCA)
-  *  Linear Discriminant Analysis (LDA)
-  *  Kernel PCA
+  * [Principal Component Analysis (PCA)](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Dimensionality%20Reduction/Principal%20Component%20Analysis)
+  * [Linear Discriminant Analysis (LDA)](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Dimensionality%20Reduction/Linear%20Discriminant%20Analysis)
+  * [Kernel PCA](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Dimensionality%20Reduction/Kernel%20PCA)
 
 * [Model Selection and Boosting](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Model%20Selection%20and%20Boosting)
