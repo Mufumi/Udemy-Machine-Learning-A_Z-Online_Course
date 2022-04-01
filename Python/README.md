@@ -33,8 +33,8 @@ The course content features the following topics:
 * [Natural Language Processing](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Natural%20Language%20Processing)
 
 * [Deep Learning](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Deep%20Learning)
-  * Artificial Neural Networks
-  * Convolutional Neural Networks
+  * [Artificial Neural Networks](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Deep%20Learning/Artificial%20Neural%20Network)
+  * [Convolutional Neural Networks](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Deep%20Learning/Convolutional%20Neural%20Network)
 
 * [Dimensionality Reduction](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Dimensionality%20Reduction)
   * [Principal Component Analysis (PCA)](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Dimensionality%20Reduction/Principal%20Component%20Analysis)
