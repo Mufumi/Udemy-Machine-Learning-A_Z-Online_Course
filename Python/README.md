@@ -19,12 +19,12 @@ The course content features the following topics:
   * [Random Forest Classification](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Classification/Random%20Forest%20Classification)
 
 * [Clustering](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Clustering)
-  * K-Means clustering
-  * Hierachical clustering
+  * [K-Means clustering](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Clustering/K-Means)
+  * [Hierachical clustering](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Clustering/Hierachical%20Clustering)
 
 * [Association Rule Learning](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Association%20Rule%20Learning)
-  * Apriori
-  * Eclat
+  * [Apriori](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Association%20Rule%20Learning/Apriori)
+  * [Eclat](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Association%20Rule%20Learning/Eclat)
 
 * [Reinforcement Learning](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Reinforcement%20Learning)
   * Thompson Sampling
