@@ -11,8 +11,8 @@ The course content features the following topics:
 
 * [Classification](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Classification)
   * [Logistic Regression](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Classification/Logistic%20Regression)
-  * K-Nearest Neighbours (KNN)
-  * Support Vector Machine (SVM)
+  * [K-Nearest Neighbours (KNN)](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Classification/K-NN)
+  * [Support Vector Machine (SVM)](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Classification/SVM)
   * [Kernel SVM](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Classification/Kernel%20SVM)
   * [Naive Bayes](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Classification/Naive%20Bayes)
   * [Decision Tree Classification](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Classification/Decision%20Tree%20Classification)
