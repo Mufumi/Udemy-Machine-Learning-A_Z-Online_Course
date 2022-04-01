@@ -10,13 +10,13 @@ The course content features the following topics:
   * [Random Forest Regression](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Regression/Random%20Forest%20Regression)
 
 * [Classification](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Classification)
-  * Logistic Regression
+  * [Logistic Regression](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Classification/Logistic%20Regression)
   * K-Nearest Neighbours (KNN)
   * Support Vector Machine (SVM)
-  * Kernel SVM
-  * Naive Bayes
-  * Decision Tree Classification
-  * Random Forest Classification
+  * [Kernel SVM](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Classification/Kernel%20SVM)
+  * [Naive Bayes](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Classification/Naive%20Bayes)
+  * [Decision Tree Classification](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Classification/Decision%20Tree%20Classification)
+  * [Random Forest Classification](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Classification/Random%20Forest%20Classification)
 
 * [Clustering](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/tree/main/Python/Clustering)
   * K-Means clustering
