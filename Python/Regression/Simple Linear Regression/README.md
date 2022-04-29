@@ -1,1 +1,1 @@
-This directory contains an implementation of the Simple Linear Regression (SLR) algorithm. The `salary_data` dataset is used to predict the salary of an employee given their experience
+This directory contains an implementation of the Simple Linear Regression (SLR) algorithm. The [salary_data](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/blob/main/Python/Regression/Simple%20Linear%20Regression/Salary_Data.csv)ataset is used to predict the salary of an employee given their experience
