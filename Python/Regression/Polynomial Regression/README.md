@@ -1,1 +1,1 @@
-This directory contains an implementation of the Polynomial Regression (PR) algorithm. The `position_salary` dataset is used to predict the salary of an employee given their profession
+This directory contains an implementation of the Polynomial Regression (PR) algorithm. The [position_salary](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/blob/47b658b81b0d6318dc5d653ae962ebdcb5e70f07/Python/Regression/Polynomial%20Regression/Position_Salaries.csv) dataset is used to predict the salary of an employee given their profession
