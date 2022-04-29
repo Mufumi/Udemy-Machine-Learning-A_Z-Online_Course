@@ -1,1 +1,1 @@
-This is an MLR algo
+This directory contains an implementation of Multiple Linear Regression (MLR). The [50_startups](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/blob/main/Python/Regression/Simple%20Linear%20Regression/Salary_Data.csv) dataset is used to predict the 
