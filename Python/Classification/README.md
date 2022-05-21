@@ -1,1 +1,1 @@
-Each classification algorithm used the position_salary dataset is used to predict the salary of an employee given their profession.
+This repository contains an implementation of classification. Each classification algorithm used the [social network ads](https://github.com/Mufumi/Udemy-Machine-Learning-A_Z-Online_Course/blob/main/Python/Classification/Decision%20Tree%20Classification/Social_Network_Ads.csv) dataset is used to predict the salary of an employee given their profession.
